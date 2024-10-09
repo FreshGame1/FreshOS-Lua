@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/Ki5bX0I.gif)
 
-[English](https://github.com/IgorTimofeev/MineOS/blob/master/README.md) | [中文(简体)](https://github.com/IgorTimofeev/MineOS/blob/master/README-zh_CN.md) | Русский
+[English](https://github.com/FreshGame1/FreshOS-Lua/blob/master/README.md) | [中文(简体)](https://github.com/FreshGame1/FreshOS-Lua/blob/master/README-zh_CN.md) | Русский
 
 ## О системе
 
@@ -20,12 +20,6 @@ MineOS - это графическая операционная система �
 -  API системы с открытым исходным кодом и подробная документация
 
 ## Как установить?
-
-Самый простой способ - это использовать стандартный скрипт `pastebin`. Вставьте дискету с OpenOS и Интернет карту в компьютер, включите его и напишите следующую команду в консоль, чтобы установить MineOS:
-
-	pastebin run PDE3eVsL
-
-Если по какой-то причине ресурс pastebin для вас недоступен, используйте альтернативную команду для установки:
 
 	wget -f https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/OpenOS.lua /tmp/installer.lua && /tmp/installer.lua
 
