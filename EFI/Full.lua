@@ -450,7 +450,7 @@ while uptime() < deadline do
 
 		if internetAddress then	
 			tableInsert(utilities, 2, newMenuElement("System recovery", function()
-				internetExecute("https://tinyurl.com/29urhz7z")
+				internetExecute("https://raw.githubusercontent.com/FreshGame1/FreshOS-Lua/master/Installer/Main.lua")
 			end))
 			
 			tableInsert(utilities, 3, newMenuElement(stringsURLBoot, function()
