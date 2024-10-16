@@ -1,4 +1,3 @@
-
 local
 	stringsMineOSEFI,
 	stringsChangeLabel,
@@ -38,7 +37,7 @@ local
 	input,
 	internetExecute =
 
-	"MineOS EFI",
+	"FreshOS EFI",
 	"Change label",
 	"key_down",
 	"component_added",
