@@ -4,7 +4,7 @@ English | [中文(简体)](https://github.com/FreshGame1/FreshOS-Lua/blob/master
 
 ## About
 
-MineOS is a GUI based operating system for the OpenComputers Minecraft mod. It has extensive customisation abilities as well as an app market to publish your creations among the OS community. For developers there is wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) with lots of code examples. List of main features:
+FreshOS is a GUI based operating system for the OpenComputers Minecraft mod. It has extensive customisation abilities as well as an app market to publish your creations among the OS community. For developers there is wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) with lots of code examples. List of main features:
 
 -   Multitasking
 -   Double buffered graphical user interface
