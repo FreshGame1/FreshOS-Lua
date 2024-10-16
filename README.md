@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/Ki5bX0I.gif)
 
-English | [中文(简体)](https://github.com/IgorTimofeev/MineOS/blob/master/README-zh_CN.md) | [Русский](https://github.com/IgorTimofeev/MineOS/blob/master/README-ru_RU.md)
+English | [中文(简体)](https://github.com/FreshGame1/FreshOS-Lua/blob/master/README-zh_CN.md) | [Русский](https://github.com/FreshGame1/FreshOS-Lua/blob/master/README-ru_RU.md)
 
 ## About
 
