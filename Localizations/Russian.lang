@@ -67,7 +67,7 @@
 	newFile = "Файл",
 	newFileFromURL = "Файл по URL",
 	newImage = "Изображение",
-	newApplication = "Приложение MineOS",
+	newApplication = "Приложение FreshOS",
 	paste = "Вставить",
 	copy = "Копировать",
 	cut = "Вырезать",
