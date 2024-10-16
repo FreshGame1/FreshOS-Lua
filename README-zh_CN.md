@@ -1,5 +1,5 @@
 
-[English](https://github.com/IgorTimofeev/MineOS/) | 中文(简体) | [Русский](https://github.com/IgorTimofeev/MineOS/blob/master/README-ru_RU.md)
+[English](https://github.com/FreshGame1/FreshOS-Lua/) | 中文(简体) | [Русский](https://github.com/FreshGame1/FreshOS-Lua/blob/master/README-ru_RU.md)
 
 ## MineOS独立版现已发布!
 
